@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Harshit Srivastava 👋
 
-<!--
-**harshitsri0405/harshitsri0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | AI/ML Engineer | B.Tech CSE
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building
+AI-powered applications and solving real-world problems
+through software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Interested in Python, Machine Learning, and AI
+- 🤖 Working on computer vision and intelligent applications
+- 🌱 Improving my DSA and software development skills
+- 🏆 Participated in hackathons and team-based projects
+
+🛠️ Technical Skills
+Programming Languages: Python, C, Java, SQL   
+Frameworks & Libraries: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, FastAPI, Tailwind CSS, React   
+Databases: MySQL, MongoDB, PostgreSQL  
+Tools & Platforms: Git, Streamlit, GitHub, VS Code, Google Colab  
+Core Concepts: Machine Learning (Supervised/Unsupervised), Deep Learning, Neural Networks (CNN), Natural Language Processing (NLP), LLMs  
+
