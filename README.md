@@ -21,3 +21,7 @@ Databases: MySQL, MongoDB, PostgreSQL
 Tools & Platforms: Git, Streamlit, GitHub, VS Code, Google Colab  
 Core Concepts: Machine Learning (Supervised/Unsupervised), Deep Learning, Neural Networks (CNN), Natural Language Processing (NLP), LLMs  
 
+
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitsri0405)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitsri0405@gmail.com)
