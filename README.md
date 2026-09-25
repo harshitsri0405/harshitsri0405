@@ -89,7 +89,7 @@ Duration: June 2026 – July 2026 (Remote)
   * Integrated LLMs and machine learning to deliver intelligent question generation, answer evaluation, and an interactive Streamlit interface.
   * **Technologies/Tools Used:** Python, Streamlit, Gemini API, Machine Learning, NLP, Local LLMs
 
-* **[AI-Based Student Dropout Risk Prediction System](https://github.com/harshitsri0405/student-dropout-prediction)**
+* **[AI-Based Student Dropout Risk Prediction System](https://github.com/harshitsri0405/AI-Based-Student-Dropout-Risk-Prediction.git)**
   * Developed an ML model to predict at-risk students with 85%+ accuracy using academic and demographic data.
   * Trained and evaluated multiple classification models (Logistic Regression, Decision Tree, Random Forest) using Scikit-learn, establishing a reproducible framework for institutional data-driven interventions.
   * **Technologies/Tools Used:** Python, Pandas, NumPy, Scikit-learn
