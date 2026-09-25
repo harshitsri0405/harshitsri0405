@@ -78,7 +78,7 @@ Duration: June 2026 – July 2026 (Remote)
 
 ### 🚀 Featured Projects
 
-* **[Mail Shield-AI](https://github.com/harshitsri0405/mail-shield-ai)**
+* **[Mail Shield-AI](https://github.com/harshitsri0405/MailSheild-AI-AI-Powered-spam-phishing-email-Threat-detection-system.git)**
   * Developed a machine learning model to classify emails as spam or legitimate using text classification techniques[.
   * Preprocessed email data using NLP techniques such as tokenization, stopword removal, and TF-IDF vectorization.
   * Trained and evaluated classification algorithms (Naive Bayes, SVM, Logistic Regression) to detect spam with high accuracy.
