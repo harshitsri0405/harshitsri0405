@@ -1,6 +1,6 @@
 # Hi, I'm Harshit Srivastava 👋
 
-### Python Developer | AI/ML Engineer | B.Tech CSE
+### Python Developer | AI/ML Engineer | B.Tech CSE  | Data Analyst
 
 I'm a Computer Science student passionate about building
 AI-powered applications and solving real-world problems
