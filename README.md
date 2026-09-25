@@ -74,3 +74,22 @@ Duration: June 2026 – July 2026 (Remote)
  Developed a Weather Prediction model using regression techniques.
 
 * **Technologies Used:** Python, NLP, Scikit-learn, Machine Learning, Pandas, NumPy, FastAPI
+
+
+### 🚀 Featured Projects
+
+* **[Mail Shield-AI](https://github.com/harshitsri0405/mail-shield-ai)**
+  * Developed a machine learning model to classify emails as spam or legitimate using text classification techniques[.
+  * Preprocessed email data using NLP techniques such as tokenization, stopword removal, and TF-IDF vectorization.
+  * Trained and evaluated classification algorithms (Naive Bayes, SVM, Logistic Regression) to detect spam with high accuracy.
+  * **Technologies/Tools Used:** Python, AI Concepts, Data Analysis, Streamlit, NLP
+
+* **[AutoMock AI](https://github.com/harshitsri0405/automock-ai)**
+  * Developed an AI-powered interview preparation platform featuring resume analysis, topic-based and resume-based interview generation, AI mock interviews, and personalized feedback.
+  * Integrated LLMs and machine learning to deliver intelligent question generation, answer evaluation, and an interactive Streamlit interface.
+  * **Technologies/Tools Used:** Python, Streamlit, Gemini API, Machine Learning, NLP, Local LLMs
+
+* **[AI-Based Student Dropout Risk Prediction System](https://github.com/harshitsri0405/student-dropout-prediction)**
+  * Developed an ML model to predict at-risk students with 85%+ accuracy using academic and demographic data.
+  * Trained and evaluated multiple classification models (Logistic Regression, Decision Tree, Random Forest) using Scikit-learn, establishing a reproducible framework for institutional data-driven interventions.
+  * **Technologies/Tools Used:** Python, Pandas, NumPy, Scikit-learn
