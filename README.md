@@ -14,6 +14,7 @@ through software development.
 - 🏆 Participated in hackathons and team-based projects
 
 🛠️ Technical Skills
+
 Programming Languages: Python, C, Java, SQL   
 Frameworks & Libraries: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, FastAPI, Tailwind CSS, React   
 Databases: MySQL, MongoDB, PostgreSQL  
