@@ -52,3 +52,14 @@ through software development.
 
 #### Core Concepts:
 > Machine Learning (Supervised/Unsupervised Learning) • Deep Learning • Neural Networks (CNN) • Natural Language Processing (NLP) • LLMs
+
+
+### 💼 Work Experience
+
+#### 🔹 Python Developer Intern | Labmentix Pvt. Ltd.
+* **Duration:** July 2026 – September 2026 (Remote)
+* **Key Responsibilities & Contributions:**
+  * Developed Python-based solutions and applications as part of real-world development projects.
+  * Applied debugging, problem-solving, and code optimization techniques to improve overall application functionality.
+  * Completed a hands-on internship focused on Python development, data processing, and application delivery.
+* **Technologies Used:** Python, SQL, Pandas, NumPy, Matplotlib, Git/GitHub, Jupyter Notebook, VS Code
