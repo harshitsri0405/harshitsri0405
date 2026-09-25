@@ -93,3 +93,12 @@ Duration: June 2026 – July 2026 (Remote)
   * Developed an ML model to predict at-risk students with 85%+ accuracy using academic and demographic data.
   * Trained and evaluated multiple classification models (Logistic Regression, Decision Tree, Random Forest) using Scikit-learn, establishing a reproducible framework for institutional data-driven interventions.
   * **Technologies/Tools Used:** Python, Pandas, NumPy, Scikit-learn
+
+
+ ### 🏆 Awards & Achievements
+
+* **Awarded 3rd Position** at Technophilia 2026.
+* **Participated** in the Innovate Bharat Hackathon 2026 under the AI & Intelligent Systems theme[cite: 1].
+* **Participated** in the Technex 2026 Innovation Competition associated with IIT BHU[cite: 1].
+* **Winner** of the SIH 2025 & 2026 Internal Hackathon[cite: 1].
+   
