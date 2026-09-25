@@ -57,9 +57,22 @@ through software development.
 ### 💼 Work Experience
 
 #### 🔹 Python Developer Intern | Labmentix Pvt. Ltd.
-* **Duration:** July 2026 – September 2026 (Remote)
+* **Duration:** July 2026 – Augest 2026 (Remote)
 * **Key Responsibilities & Contributions:**
   * Developed Python-based solutions and applications as part of real-world development projects.
   * Applied debugging, problem-solving, and code optimization techniques to improve overall application functionality.
   * Completed a hands-on internship focused on Python development, data processing, and application delivery.
 * **Technologies Used:** Python, SQL, Pandas, NumPy, Matplotlib, Git/GitHub, Jupyter Notebook, VS Code
+
+  🔹 Artificial Intelligence Intern | Codec Technologies
+Duration: June 2026 – July 2026 (Remote)[cite: 1]
+
+Key Responsibilities & Contributions:
+
+Learned and applied core Machine Learning and AI concepts including data preprocessing, model training, and evaluation[cite: 1].
+
+Built Mailshield AI, achieving 95% accuracy in spam email detection[cite: 1].
+
+Developed a Weather Prediction model using regression techniques[cite: 1].
+
+Technologies Used: Python, NLP, Scikit-learn, Machine Learning, Pandas, NumPy, FastAPI[cite: 1]
