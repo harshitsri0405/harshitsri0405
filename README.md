@@ -84,7 +84,7 @@ Duration: June 2026 – July 2026 (Remote)
   * Trained and evaluated classification algorithms (Naive Bayes, SVM, Logistic Regression) to detect spam with high accuracy.
   * **Technologies/Tools Used:** Python, AI Concepts, Data Analysis, Streamlit, NLP
 
-* **[AutoMock AI](https://github.com/harshitsri0405/automock-ai)**
+* **[AutoMock AI](https://github.com/harshitsri0405/AutoMock-AI-A-Local-AI-Powered-Interview-Preparation-and-Resume-Intelligence-Platform.git)**
   * Developed an AI-powered interview preparation platform featuring resume analysis, topic-based and resume-based interview generation, AI mock interviews, and personalized feedback.
   * Integrated LLMs and machine learning to deliver intelligent question generation, answer evaluation, and an interactive Streamlit interface.
   * **Technologies/Tools Used:** Python, Streamlit, Gemini API, Machine Learning, NLP, Local LLMs
