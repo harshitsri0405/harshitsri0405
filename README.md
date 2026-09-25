@@ -67,10 +67,10 @@ through software development.
  #### 🔹Artificial Intelligence Intern | Codec Technologies
 Duration: June 2026 – July 2026 (Remote)
 
- *   * *Key Responsibilities & Contributions: * *
+   * *Key Responsibilities & Contributions: * *
 
- *Learned and applied core Machine Learning and AI concepts including data preprocessing, model training, and evaluation.
- *Built Mailshield AI, achieving 95% accuracy in spam email detection.
- *Developed a Weather Prediction model using regression techniques.
+ Learned and applied core Machine Learning and AI concepts including data preprocessing, model training, and evaluation.
+ Built Mailshield AI, achieving 95% accuracy in spam email detection.
+ Developed a Weather Prediction model using regression techniques.
 
 * **Technologies Used:** Python, NLP, Scikit-learn, Machine Learning, Pandas, NumPy, FastAPI
